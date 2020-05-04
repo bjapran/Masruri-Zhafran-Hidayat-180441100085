@@ -1,6 +1,6 @@
 # Tugas klasifikasi k-NN menggunakan Orange
 
-## Data Latih
+Data Latih
 
 ![image-20200504221431553](image-20200504221431553.png)
 
